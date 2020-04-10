@@ -1,10 +1,6 @@
 # Ian Dryg, PhD
 
-Seattle, WA 98103
-
-www.linkedin.com/in/idryg
-
-US Citizen
+Seattle, WA 98103 - - - iddryg@gmail.com - - - www.linkedin.com/in/idryg - - - US Citizen
 
 Innovative and motivated scientist looking for exciting research opportunities. 
 
