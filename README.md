@@ -40,8 +40,8 @@ Innovative and motivated scientist looking for exciting opportunities in R&D and
 		
 ## EXPERIENCE
 
-### 2022 – Present	SCIENTIST
-### 2021 – 2022		COMPUTATIONAL BIOLOGIST II
+### 2022 – Present: 	SCIENTIST
+### 2021 – 2022: 	COMPUTATIONAL BIOLOGIST II
 ### Dana-Farber Cancer Institute – Boston, MA, USA / Remote
 ### Department of Data Science / Knowledge Systems Group / Center for Immuno-Oncology
 
@@ -51,7 +51,7 @@ Innovative and motivated scientist looking for exciting opportunities in R&D and
 -	Performed spatial analysis of multiplexed immunofluorescence tissue samples to test hypotheses and better understand how spatial organization of cells affects clinical outcomes in cancer. Utilized our custom-made pipeline for spatial biology called Pythologist (python + pathologist). 
 -	Analyzed various RNA sequencing datasets using standard tools in R, including bulk RNA-seq (DESEQ2) and single-cell RNA-seq (Seurat). 
 
-### 2020 – 2021		POSTDOCTORAL RESEARCHER	
+### 2020 – 2021: 	POSTDOCTORAL RESEARCHER	
 ### NYU Langone Health – New York, NY, USA
 ### Advisor: Amanda Lund Ph.D., Department of Dermatology
 
@@ -60,7 +60,7 @@ Innovative and motivated scientist looking for exciting opportunities in R&D and
 -	Analyzed RNA sequencing datasets using standard tools in R, including bulk RNA-seq (DESEQ2) and single-cell RNA-seq (Seurat). 
 -	Performed GSEA on bulk RNA-seq data to identify enriched transcriptional phenotypes in tumor associated and egressed CD8+ T-cells.
 
-### 2013 – 2019 	GRADUATE RESEARCHER (PhD in Bioengineering)
+### 2013 – 2019:  	GRADUATE RESEARCHER (PhD in Bioengineering)
 ### University of Washington – Seattle, WA
 ### Advisors: Buddy Ratner, James Bryers, Bill Shain
 
@@ -74,20 +74,20 @@ Innovative and motivated scientist looking for exciting opportunities in R&D and
 - Maintained familiarity with advances in the field and with scientific literature to become a subject matter expert for flow cytometry, electron and confocal microscopy, regenerative biomaterials, and brain-computer interfaces. 
 - Mentored, supervised, and trained 1 undergraduate and 1 graduate student researcher who have continued successful scientific and medical careers. 
 
-### 2014 Summer		VISITING SCHOLAR
+### 2014 Summer: 	VISITING SCHOLAR
 ### University of Freiburg – Freiburg, Germany
 ### Advisor: Ulrich Hofmann Ph.D.
 - 	Visiting Scholar Thesis: Optical Coherence Tomography for Online Monitoring of Brain Implants
 -	Collaborative international exchange using Optical Coherence Tomography (OCT) for real-time monitoring of tissue responses surrounding implantable neural devices in vivo, compared with traditional immunohistochemistry. 
 
-### 2012 – 2013 	GRADUATE RESEARCHER (MS in Biomedical Engineering)					                  
+### 2012 – 2013:  	GRADUATE RESEARCHER (MS in Biomedical Engineering)					                  
 ### Purdue University – West Lafayette, IN  
 ### Advisor: Pedro Irazoqui						                            
 
 - Designed and conducted an in vivo study testing the functionality and brain tissue response to flexible microwire electrodes using a novel magnetic insertion method resulting in 1 first author peer reviewed article. 
 - Designed and fabricated in-house amplifiers, electrophysiology rig, and neural signal processing program (MATLAB/Labview).
 
-### 2010 – 2012 	UNDERGRADUATE RESEARCHER (BS in Biomedical Engineering)					              
+### 2010 – 2012:  	UNDERGRADUATE RESEARCHER (BS in Biomedical Engineering)					              
 ### Purdue University - West Lafayette, IN
 
 - Assisted in development of implantable devices and biosensors for research in epilepsy, glaucoma, and prosthetics (Advisor: Pedro Irazoqui).
@@ -95,13 +95,13 @@ Innovative and motivated scientist looking for exciting opportunities in R&D and
 
 ## EDUCATION
 
-### 2013-2019 	PHD – BIOENGINEERING
+### 2013-2019: 	PHD – BIOENGINEERING
 ### University of Washington - Seattle, WA
 
-### 2012-2013 	MASTER OF SCIENCE – BIOMEDICAL ENGINEERING
+### 2012-2013: 	MASTER OF SCIENCE – BIOMEDICAL ENGINEERING
 ### Purdue University - West Lafayette, IN	
 
-### 2008-2012 	BACHELOR OF SCIENCE – BIOMEDICAL ENGINEERING (Minor: Mathematics)
+### 2008-2012: 	BACHELOR OF SCIENCE – BIOMEDICAL ENGINEERING (Minor: Mathematics)
 ### Purdue University - West Lafayette, IN
 
 ## PUBLICATIONS
